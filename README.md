@@ -1,1 +1,1 @@
-# Pinterest-a---like-Social-Media-Platform
+# Pinterest-a-like-Social-Media-Platform
