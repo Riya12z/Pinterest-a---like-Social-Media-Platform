@@ -1,1 +1,1 @@
-# Pinterest-a-like-Social-Media-Platform
+This is a Backend project using Nodejs, Express and Mongodb.
